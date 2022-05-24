@@ -16,7 +16,7 @@ Given a webpage meets accessibility standards
 
 ## Deployment
 
-My website is available [here](https://pages.github.com/).
+My website is available [here](https://yipchisan.github.io/monash-bootcamp-challenge-1/).
 
 ## Screenshot
 
