@@ -16,7 +16,9 @@ Given a webpage meets accessibility standards
 
 ## Screenshot
 
-![Screenshot](./Develop/assets/images/screenshot.png)
+How my website looks like
+
+![Screenshot](./docs/assets/images/screenshot.png)
 
 ## Modifications
 
