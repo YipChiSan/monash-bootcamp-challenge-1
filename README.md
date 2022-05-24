@@ -14,9 +14,17 @@ Given a webpage meets accessibility standards
 4. WHEN I view the heading attributes THEN they fall in sequential order
 5. WHEN I view the title element THEN I find a concise, descriptive title
 
-## Modification
+## Modifications
 
-| Which Acceptance Criteria is based on |   Previous   |   Current    |
-| :-----------------------------------: | :----------: | :----------: |
-|                   1                   | Content Cell | Content Cell |
-|                   1                   | Content Cell |
+| Which Acceptance Criteria is based on |                                                Modification                                                |
+| :-----------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+|                   1                   | Change the `div` with `class="header"` to `header` element and also change the corresponding css selectors |
+|                   1                   |                        Change the `div` with `class="content"` to `section` element                        |
+|                   1                   |              Change the `div` with `class="search-engine-optimization"` to `article` element               |
+|                   1                   |             Change the `div` with `class="online-reputation-management"` to `article` element              |
+|                   1                   |                Change the `div` with `class="social-media-marketing"` to `article` element                 |
+|                   1                   |                        Change the `div` with `class="benefits"` to `aside` element                         |
+|                   1                   |                     Change the `div` with `class="benefit-lead"` to `article` element                      |
+|                   1                   |                     Change the `div` with `class="benefit-brand"` to `article` element                     |
+|                   1                   |                     Change the `div` with `class="benefit-cost"` to `article` element                      |
+|                   1                   | Change the `div` with `class="footer"` to `footer` element and also change the corresponding css selectors |
