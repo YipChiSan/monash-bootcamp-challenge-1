@@ -14,6 +14,10 @@ Given a webpage meets accessibility standards
 4. WHEN I view the heading attributes THEN they fall in sequential order
 5. WHEN I view the title element THEN I find a concise, descriptive title
 
+## Deployment
+
+My website is available [here](https://pages.github.com/).
+
 ## Screenshot
 
 How my website looks like
