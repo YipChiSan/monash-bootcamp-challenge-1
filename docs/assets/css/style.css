@@ -59,11 +59,13 @@ p {
     background-position: center;
 }
 
+/*Let the applied image float to left*/ 
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/*Let the applied image float to right*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -86,6 +88,7 @@ p {
     background-color: #2589bd;
 }
 
+/*Combine benefit-lead, benefit-brand and benefit-cost to benefit-item */
 .benefit-item {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,6 +105,8 @@ p {
     max-width: 150px;
 }
 
+/*Combine search-engine-optimization, online-reputation-management and social-media-marketing 
+to service*/
 .service {
     margin-bottom: 20px;
     padding: 50px;
