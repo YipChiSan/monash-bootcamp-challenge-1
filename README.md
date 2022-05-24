@@ -16,15 +16,17 @@ Given a webpage meets accessibility standards
 
 ## Modifications
 
-| Which Acceptance Criteria is based on |                                                Modification                                                |
-| :-----------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-|                   1                   | Change the `div` with `class="header"` to `header` element and also change the corresponding css selectors |
-|                   1                   |                        Change the `div` with `class="content"` to `section` element                        |
-|                   1                   |              Change the `div` with `class="search-engine-optimization"` to `article` element               |
-|                   1                   |             Change the `div` with `class="online-reputation-management"` to `article` element              |
-|                   1                   |                Change the `div` with `class="social-media-marketing"` to `article` element                 |
-|                   1                   |                        Change the `div` with `class="benefits"` to `aside` element                         |
-|                   1                   |                     Change the `div` with `class="benefit-lead"` to `article` element                      |
-|                   1                   |                     Change the `div` with `class="benefit-brand"` to `article` element                     |
-|                   1                   |                     Change the `div` with `class="benefit-cost"` to `article` element                      |
-|                   1                   | Change the `div` with `class="footer"` to `footer` element and also change the corresponding css selectors |
+| Which Acceptance Criteria is based on |                                                                                              Modification                                                                                               |
+| :-----------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                   1                   |                                               Change the `div` with `class="header"` to `header` element and also change the corresponding css selectors                                                |
+|                   1                   |                                                                      Change the `div` with `class="content"` to `section` element                                                                       |
+|                   1                   |                                                             Change the `div` with `class="search-engine-optimization"` to `article` element                                                             |
+|                   1                   |                                                            Change the `div` with `class="online-reputation-management"` to `article` element                                                            |
+|                   1                   |                                                               Change the `div` with `class="social-media-marketing"` to `article` element                                                               |
+|                   1                   |                                                                       Change the `div` with `class="benefits"` to `aside` element                                                                       |
+|                   1                   |                                                                    Change the `div` with `class="benefit-lead"` to `article` element                                                                    |
+|                   1                   |                                                                   Change the `div` with `class="benefit-brand"` to `article` element                                                                    |
+|                   1                   |                                                                    Change the `div` with `class="benefit-cost"` to `article` element                                                                    |
+|                   1                   |                                               Change the `div` with `class="footer"` to `footer` element and also change the corresponding css selectors                                                |
+|                   2                   | Combine `class="search-engine-optimization"`, `class="online-reputation-management"` and `class="social-media-marketing"` to one single class `service` and also change the corresponding css selectors |
+|                   2                   |                  Combine `class="benefit-lead"`, `class="benefit-brand"` and `class="benefit-cost"` to one single class `benefit-item` and also change the corresponding css selectors                  |
